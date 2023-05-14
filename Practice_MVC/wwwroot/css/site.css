@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+header nav div ul {
+    flex-direction: row;
+    justify-content: center
+}
