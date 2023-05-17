@@ -1,0 +1,38 @@
+﻿.navbar .container-fluid .d-sm-inline-flex .my-set-1 {
+    flex-direction: row;
+    justify-content: center
+}
+
+.font-loader {
+    font-family: 'Amatic SC', cursive;
+    font-style: italic;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.slide{
+    width: 1000px;
+    margin: 0 auto;
+    overflow:hidden;
+    border-radius:10px
+}
+.next-slide{
+    width:9999px;
+}
+.next-slide img{
+    width:1000px;
+    height:auto;
+    float:left;
+}
+.directional{
+    position:absolute;
+    color:white;
+    font-size:30px;
+    top: 50%;
+    padding-left:20px;
+}
+.directional i:last-child{
+    position:relative;
+    left:895px;
+}
