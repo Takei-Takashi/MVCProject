@@ -1,0 +1,8 @@
+﻿@font-face {
+    font-family: 'amaticsc-bold';
+    src: url('../myfontfamily/amaticsc-bold.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'amaticsc-regular';
+    src: url('../myfontfamily/amaticsc-regular.ttf') format('ttf');
+}
